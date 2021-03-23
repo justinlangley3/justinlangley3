@@ -24,8 +24,8 @@ Advanced Java techniques
 - Video game mods
 - Web apps
 
-### 📫 How to reach me:
-My personal email, justin.a.langley@gmail.com
+### How to reach me:
+📫 justin.a.langley@gmail.com
 
 <!---
 justinlangley3/justinlangley3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
